@@ -1,7 +1,7 @@
 ### SA-CORE-2018-004
 Drupalgeddon3 SA-CORE-2018-004 POC
 
-CVE-2018-7600 - Drupal 7.x RCE
+CVE-2018-7602 - Drupal 7.x RCE
 
 Drupal < 7.59 authenticated RCE
 
